@@ -19,5 +19,12 @@ public class problem1 {
         System.out.println(list);
         list.add(2,35);
 
+//        (Q.1) Given an arrayList of integers, find the no which
+//        are div by both 5 and
+//        7 and return them.
+
+
+
+
     }
 }
