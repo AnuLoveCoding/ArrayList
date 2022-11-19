@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+//import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class problem2 {
@@ -24,7 +25,7 @@ public class problem2 {
 
         int [][] C = new int[A][B];
 
-        System.out.println(solve(A,B,C));
+        System.out.println(Arrays.toString(solve(A, B, C)));
 
 
     }
