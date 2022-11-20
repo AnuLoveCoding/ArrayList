@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044e9be9-745e-4476-aafb-3a83f5c1b4ba" name="Changes" comment="git commit -m &quot;ArrayList&quot;">
-      <change afterPath="$PROJECT_DIR$/src/problem10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problem9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4.java" afterDir="false" />
-    </list>
+    <list default="true" id="044e9be9-745e-4476-aafb-3a83f5c1b4ba" name="Changes" comment="git commit -m &quot;ArrayList&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668778834967</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="git commit -m &quot;ArrayList&quot;">
+      <created>1668881770509</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668881770509</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
